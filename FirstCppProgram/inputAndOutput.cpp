@@ -4,7 +4,7 @@
 using namespace std;
 
 /*
-    This program have diffrent examples of input and output
+    This program has diffrent examples of input and output
     Part 1 has cout, cerr, clog, cin
     Part 2 has cout and use getline(cin, variable) for input
     Note: Part 2 won't work correctly if Part 1 is not commented
