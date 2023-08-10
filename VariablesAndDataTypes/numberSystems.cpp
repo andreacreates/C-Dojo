@@ -5,9 +5,9 @@ using namespace std;
 int main () {
 	
 	int number1 = 15; //Decimal
-	int number2 = 017; //Octal
-	int number3 = 0x0f; //Hexadecimal
-	int number4 = 0b00001111; //Binary - C++14
+	int number2 = 017; //Octal add prefix 0
+	int number3 = 0x0f; //Hexadecimal add prefix 0x
+	int number4 = 0b00001111; //Binary - C++14 add prefix 0b
 
 	cout << "Hello World !" << endl;
 
