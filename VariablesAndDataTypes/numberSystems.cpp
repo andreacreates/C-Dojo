@@ -2,6 +2,11 @@
 
 using namespace std;
 
+/*
+ * This program shows how to declare ints with Decimal, Octal, Hexadecimal and 
+ * Binary number systems and prints the decimal number of each.
+ */
+
 int main () {
 	
 	int number1 = 15; //Decimal
