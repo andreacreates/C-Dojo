@@ -3,7 +3,7 @@
 using namespace std;
 
 /*
-    This program has a function that add two numbers.
+    This program has a function that adds two numbers.
 */
 
 //This fucntion takes two int and return the sum of both int parameters
